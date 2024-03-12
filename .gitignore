@@ -1,0 +1,18 @@
+# Macbook files
+.DS_Store
+
+# .gitignore content
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.lock.hcl
+*.txt
+*.pub
+
+mykey
+
+# Directories
+plan_output
+terraform.tfstate.backup
+logs
